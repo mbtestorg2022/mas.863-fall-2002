@@ -4,6 +4,7 @@ description: Assignment to create a web page to describe and illustrate a planne
   semester project.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/mas-863-how-to-make-almost-anything-fall-2002/36ebf1a6ad3b193a1737b83561e0b461_assignment6.pdf
 file_type: application/pdf
+parent_uid: 7a94edfb-5c1f-a847-af48-e1a227f5f27d
 resourcetype: Document
 title: Assignment 6
 uid: 36ebf1a6-ad3b-193a-1737-b83561e0b461
